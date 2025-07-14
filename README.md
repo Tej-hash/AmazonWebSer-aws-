@@ -1,7 +1,7 @@
 
 ---
 
-# AWS Basics for Students
+# Amazon Web Services (AWS)
 
 Welcome to the Amazon Web Services (AWS) for Students repository!
 
